@@ -74,7 +74,8 @@
  
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/fhdzleon/count.svg?"  />
+<img src="https://github-readme-stats.vercel.app/api?username=fhdzleon&show_icons=true&theme=radical" />
+
 </div>
 
 ###
