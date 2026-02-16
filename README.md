@@ -63,25 +63,14 @@
 
 ###
 
-<h2 align="left">Estadisticas:</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-###
-
-<h2 align="left">Estadísticas</h2>
-
-<div align="center">
-
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=fhdzleon&show_icons=true&theme=dracula&hide_border=true" 
-    height="160" 
+    height="170"
   />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhdzleon&layout=compact&theme=dracula&hide_border=true" 
-    height="160" 
-  />
-
-</div>
+</p>
 
 
 ###
