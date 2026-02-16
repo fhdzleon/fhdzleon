@@ -66,9 +66,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fhdzleon&show_icons=true&theme=dracula&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=fhdzleon&theme=github-dark&hide_border=true" />
 </p>
+
 
 
 ###
