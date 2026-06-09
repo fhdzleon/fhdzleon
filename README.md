@@ -1,16 +1,18 @@
-<h2 align="left">Hola 👋! Mi nombre es Felipe Hernández de Ciudad de México.</h2>
+<h2 align="left">Hi there 👋
+
+My name is Felipe Hernández, and I'm based in Mexico City.</h2>
 
 ###
 
-<p align="left">Fullstack  Developer especializado en Frontend, con una sólida base en desarrollo  de aplicaciones funcionales</p>
+<p align="left">I'm a Full-Stack Developer with a strong focus on Frontend development and a solid foundation in building functional, scalable applications.</p>
 
 ###
 
-<p align="left">Mi pasión por la tecnología se centra en crear experiencias  visuales e interactivas que conecten con los usuarios, aprovechando las  últimas tendencias y herramientas del desarrollo web.</p>
+<p align="left">I'm passionate about creating engaging, interactive, and user-centered experiences while leveraging modern web technologies and development best practices.</p>
 
 ###
 
-<h2 align="left">Mi stack de tecnologias:</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
@@ -40,7 +42,7 @@
 
 ###
 
-<h2 align="left">Mis redes sociales:</h2>
+<h2 align="left">Connect with Me:</h2>
 
 ###
 
@@ -55,11 +57,11 @@
 
 ###
 
-<h2 align="left">Mis objetivos:</h2>
+<h2 align="left">Goals</h2>
 
 ###
 
-<p align="left">- Dominar técnicas de optimización de rendimiento frontend.<br><br>- Contribuir a proyectos de código abierto para retribuir a la comunidad de desarrolladores.<br><br>- Ampliar mis habilidades en desarrollo backend para convertirme en un desarrollador full-stack más completo.</p>
+<p align="left">- Master advanced frontend performance optimization techniques.<br><br>- Contribute to open-source projects and give back to the developer community.<br><br>- Expand my backend development skills to become a more well-rounded full-stack developer.</p>
 
 ###
 
